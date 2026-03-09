@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Restaurant Price Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        h1 {
+            margin-bottom: 10px;
+        }
+        form {
+            margin-bottom: 30px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            font-size: 14px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Restaurant Price Prediction</h1>
+
+
+<form method="POST" enctype="multipart/form-data">
+    <input type="file" name="file" accept=".csv" required>
+    <button type="submit">Predict</button>
+</form>
+
+{% if table %}
+    <h2>Prediction Results (first 20 rows)</h2>
+    {{ table | safe }}
+{% endif %}
+
+</body>
+</html>

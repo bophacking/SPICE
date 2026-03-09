@@ -1,0 +1,6 @@
+menu_item_name,restaurant_type,meal_type,typical_ingredient_cost,observed_market_price,quantity_sold,has_promotion,special_event,day_of_week,holiday,is_weekend,category,cuisine_type
+Nasi Lemak Ayam,Mamak,Breakfast,4.5,8.0,120,0,0,Monday,0,0,Rice,Malay
+Beef Rendang,Restaurant,Lunch,7.2,15.5,80,0,0,Wednesday,0,0,Meat,Malay
+Chicken Burger,Fast Food,Lunch,5.0,10.0,150,1,0,Friday,0,0,Burger,Western
+Matcha Latte,Cafe,Snack,3.8,9.5,200,1,0,Saturday,0,1,Beverage,Japanese
+Spaghetti Carbonara,Restaurant,Dinner,6.5,14.0,60,0,1,Sunday,0,1,Pasta,Italian
