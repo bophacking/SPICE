@@ -3,7 +3,7 @@ My abysmal first attempt at machine learning.
 Restaurant Price Picker AKA SPICE
 Main features:
 
-- PREDICTS SELLING PRICE WITH LINEAR REGRESSION, INVOLVING:
+- Predicts estimated selling price, involving:
 restaurant_type
 meal_type
 category
@@ -17,9 +17,9 @@ typical_ingredient_cost
 observed_market_price
 quantity_sold
 
-- PRICE LEVEL CATEGORIZATION WITH SIMPLE ESTIMATIONS
+- Price Level Categorization with Simple Estimations
 
-- CALCULATES GROSS PROFIT
+- Calculates Gross Profit
 
 *dataset credit goes to jordanchan20 on Kaggle
 
