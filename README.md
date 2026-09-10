@@ -22,4 +22,5 @@ quantity_sold
 - CALCULATES GROSS PROFIT
 
 *dataset credit goes to jordanchan20 on Kaggle
+
 https://www.kaggle.com/datasets/jordanchan20/restaurant-menu-price?resource=download
