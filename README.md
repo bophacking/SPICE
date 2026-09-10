@@ -1,7 +1,7 @@
-my abysmal first attempt at machine learning
+My abysmal first attempt at machine learning.
 
-RESTAURANT PRICE PICKER AKA SPICE
-MAIN FEATURES:
+Restaurant Price Picker AKA SPICE
+Main features:
 
 - PREDICTS SELLING PRICE WITH LINEAR REGRESSION, INVOLVING:
 restaurant_type
@@ -20,3 +20,6 @@ quantity_sold
 - PRICE LEVEL CATEGORIZATION WITH SIMPLE ESTIMATIONS
 
 - CALCULATES GROSS PROFIT
+
+*dataset credit goes to jordanchan20 on Kaggle
+https://www.kaggle.com/datasets/jordanchan20/restaurant-menu-price?resource=download
