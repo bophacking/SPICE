@@ -3,7 +3,7 @@ My abysmal first attempt at machine learning.
 Restaurant Price Picker AKA SPICE
 Main features:
 
-- Predicts estimated selling price, involving:
+- Predicts estimated selling price via linear regression, involving:
 restaurant_type
 meal_type
 category
